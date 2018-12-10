@@ -10,10 +10,14 @@ Los pasos que he seguido para subirlo al repositorio ha sido:
 git init
 
 //Añade el elemento al analizar "Añadimos el elemento que queremos analizar"
-git add "alimentos"
+git add "web"
 
 //Para observar el estado
 git status
 
 //Commit de lo anterior para confirmar el estado
-git commit -m 'comentario'
+git commit -m 'confirmado'
+
+//Push para mandar la carpeta web a nuestro repositorio remoto GRUPO12DAW18
+
+git push -f origin <branch>
