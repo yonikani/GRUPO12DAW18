@@ -18,6 +18,25 @@ git status
 //Commit de lo anterior para confirmar el estado
 git commit -m 'confirmado'
 
-//Push para mandar la carpeta web a nuestro repositorio remoto GRUPO12DAW18
+//Conectar con los archivos remotamente
+git remote add origin https://github.com/yonikani/GRUPO12DAW18.git
 
-git push -f origin <branch>
+//Push para mandar la carpeta web a nuestro repositorio remoto GRUPO12DAW18
+git push -f origin web
+
+Y así ya tenemos nuestra vista subida a nuestro repositorio de la web.
+
+Para realizar el Modelo y el Controlador para los demás integrante hay que añadir como colaboradores al repositorio con su nombre
+de usuario de GitHub y así puedan subir parte de su trabajo también.
+
+// MODELO //
+
+El encargado del modelo será: xxxxxxxxxxxxx
+que será el encargado de realizar todas las actualizaciones de la información para poder mandarla a la vista y así obtener nuevos
+resultados de la petición realiza al controlador.
+
+// CONTROLADOR //
+
+El encargado del controlador será: xxxxxxxxxxxxx
+Será el encargado de ser como intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos 
+y las transformaciones para adaptar los datos a las necesidades de cada uno.
