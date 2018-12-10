@@ -1,2 +1,19 @@
+// LA VISTA //
 
-jeje
+Para realizar la vista lo primero he realizado la descarga de un proyecto ya realizado llamado "alimentos", en dicho proyecto
+se divide en MVC es decir "Modelo, Vista y Controlador", mi trabajo ha sido el de la vista.
+Lo segundo fue coger únicamente la vista que en dicho proyecto se llamaba "web" y la he importado en mi proyecto Web.
+
+Los pasos que he seguido para subirlo al repositorio ha sido:
+
+//Comienzo de análisis de un proyecto "Dentro de la carpeta alimentos ponemos este comando para el comienzo de análisis"
+git init
+
+//Añade el elemento al analizar "Añadimos el elemento que queremos analizar"
+git add "alimentos"
+
+//Para observar el estado
+git status
+
+//Commit de lo anterior para confirmar el estado
+git commit -m 'comentario'
