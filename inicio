@@ -31,12 +31,12 @@ de usuario de GitHub y así puedan subir parte de su trabajo también.
 
 // MODELO //
 
-El encargado del modelo será: xxxxxxxxxxxxx
+El encargado del modelo será: Ricardo Villalobos
 que será el encargado de realizar todas las actualizaciones de la información para poder mandarla a la vista y así obtener nuevos
 resultados de la petición realiza al controlador.
 
 // CONTROLADOR //
 
-El encargado del controlador será: xxxxxxxxxxxxx
+El encargado del controlador será: Jesús Rodriguez
 Será el encargado de ser como intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos 
 y las transformaciones para adaptar los datos a las necesidades de cada uno.
