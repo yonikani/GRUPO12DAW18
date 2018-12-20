@@ -1,0 +1,8 @@
+-Guia de instalacion-
+
+Antes de empezar la instalacion debemos de asegurarnos de que la base de datos "g12alimentos" esta creada.
+Una vez que la base de datos este creada tenemos que pasar por FTP todos los ficheros del proyecto, en la
+carpeta web de nuestro hosting.
+
+Cuando se complete la transferencia tenemos que acceder al fichero install.php para que se creen las tablas
+en la base de datos. Al terminar de crearse las tablas el proyecto estara instalado.
