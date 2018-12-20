@@ -1,5 +1,5 @@
 <?php
-  include("../app/Config.php");
+  include("../app/datosBD/Config.php");
 
   //Nos conectamos a la base de datos
   $conexion = mysqli_connect($mvc_bd_hostname, $mvc_bd_usuario, $mvc_bd_clave, $mvc_bd_nombre) or die ("<p>No se ha podido establecer la conexion con la base de datos</p>");
