@@ -9,15 +9,15 @@
          <tr>
              <td>Nombre</td> <td><input type="text" name="nombre" value="<?php echo $params['nombre'] ?>" /></td> </tr>
 					<tr>
-             <td>Energía (Kcal)</td><td><input type="text" name="nombre" value="<?php echo $params['energia'] ?>" /></td> </tr>
+             <td>Energía (Kcal)</td><td><input type="text" name="energia" value="<?php echo $params['energia'] ?>" /></td> </tr>
 					<tr>
-             <td>Proteina (g)</td><td><input type="text" name="energia" value="<?php echo $params['proteina'] ?>" /></td></tr>
+             <td>Proteina (g)</td><td><input type="text" name="proteina" value="<?php echo $params['proteina'] ?>" /></td></tr>
 					<tr>            
-						 <td>H. de carbono (g)</td><td><input type="text" name="proteina" value="<?php echo $params['hc'] ?>" /></td> </tr>
+						 <td>H. de carbono (g)</td><td><input type="hc" name="hc" value="<?php echo $params['hc'] ?>" /></td> </tr>
 					<tr>
-             <td>Fibra (g)</td><td><input type="text" name="hc" value="<?php echo $params['fibra'] ?>" /></td> </tr>
+             <td>Fibra (g)</td><td><input type="text" name="fibra" value="<?php echo $params['fibra'] ?>" /></td> </tr>
 					<tr>
-             <td>Grasa total (g)</td><td><input type="text" name="fibra" value="<?php echo $params['grasa'] ?>" /></td>
+             <td>Grasa total (g)</td><td><input type="text" name="grasa" value="<?php echo $params['grasa'] ?>" /></td>
          </tr>
        
 
