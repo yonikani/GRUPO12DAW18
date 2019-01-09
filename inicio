@@ -40,3 +40,7 @@ resultados de la petición realiza al controlador.
 El encargado del controlador será: Jesús Rodriguez
 Será el encargado de ser como intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos 
 y las transformaciones para adaptar los datos a las necesidades de cada uno.
+
+//COMPLEMENTARIO//
+
+He modificado varios ficheros del modelo, controlador y vista ya que no funcionaban y se lo he pasado a mis compañeros.
