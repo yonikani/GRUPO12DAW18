@@ -4,5 +4,6 @@ Antes de empezar la instalacion debemos de asegurarnos de que la base de datos "
 Una vez que la base de datos este creada tenemos que pasar por FTP todos los ficheros del proyecto, en la
 carpeta web de nuestro hosting.
 
-Cuando se complete la transferencia tenemos que acceder al fichero install.php para que se creen las tablas
-en la base de datos. Al terminar de crearse las tablas el proyecto estara instalado.
+Cuando se complete la transferencia tenemos que modificar el fichero Config.php, el que esta dentro de app y el que esta en datosBD, y cambiar los datos de conexion a la base de datos para que coincidan con los de nuestro CDmon.
+
+Por ultimo debemos acceder al fichero install.php para que se creen las tablas en la base de datos. Al terminar de crearse las tablas el proyecto estara instalado.
